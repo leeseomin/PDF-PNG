@@ -4,7 +4,7 @@ extract images from a PDF
 
 <br>
 <br>
-![대표2](https://github.com/leeseomin/PDF_PNG/blob/main/capture.png)
+![Image](https://github.com/leeseomin/PDF_PNG/blob/main/capture.png)
 
 ## Dependency (Tested on an M2 Mac) 
 
