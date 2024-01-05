@@ -1,10 +1,9 @@
 # PDF_PNG
 extract images from a PDF
 
-
-<br>
-<br>
 ![Image](https://github.com/leeseomin/PDF_PNG/blob/main/capture.png)
+
+
 
 ## Dependency (Tested on an M2 Mac) 
 
