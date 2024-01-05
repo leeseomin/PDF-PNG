@@ -32,3 +32,10 @@ extract images from a PDF
 ## Credit
 
 PyMuPDF : https://github.com/pymupdf/PyMuPDF 
+
+
+
+## License and Copyright
+
+This is available under open-source AGPL  
+
