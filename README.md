@@ -34,6 +34,10 @@ extract images from a PDF
 PyMuPDF : https://github.com/pymupdf/PyMuPDF 
 
 
+ <br/>
+ 
+ <br/>
+
 
 ## License and Copyright
 
