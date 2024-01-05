@@ -7,7 +7,7 @@ extract images from a PDF
 
 
 
-## Dependency (Tested on an M2 Mac) 필수설치 맥에서 테스팅.
+## Dependency (Tested on an M2 Mac) 
 
 
 ```pip install --upgrade pymupdf ```
