@@ -41,5 +41,5 @@ PyMuPDF : https://github.com/pymupdf/PyMuPDF
 
 ## License and Copyright
 
-This is available under open-source AGPL  
+This is available under open-source AGPL  :https://www.gnu.org/licenses/agpl-3.0.html 
 
