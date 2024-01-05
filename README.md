@@ -31,4 +31,4 @@ extract images from a PDF
 
 ## Credit
 
-PyMuPDF : [https://github.com/tesseract-ocr/tesseract ](https://github.com/pymupdf/PyMuPDF)https://github.com/pymupdf/PyMuPDF 
+PyMuPDF : https://github.com/pymupdf/PyMuPDF 
