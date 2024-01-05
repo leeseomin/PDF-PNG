@@ -1,7 +1,7 @@
 # PDF_PNG
 extract images from a PDF
 
-![Image](https://github.com/leeseomin/PDF_PNG/blob/main/capture.png)
+![Image](https://github.com/leeseomin/PDF_PNG/blob/main/pic/1.png)
 
 
 
