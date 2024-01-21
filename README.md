@@ -20,7 +20,7 @@
 
 ## run code 앱실행  
 
-```python pdfpng_05.py```
+```python pdfpng_06.py```
 
 
  <br/>
