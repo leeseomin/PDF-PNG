@@ -1,5 +1,5 @@
 # PDF-PNG
-extract images from a PDF
+extract images and text from a PDF
 
 ![Image](https://github.com/leeseomin/PDF_PNG/blob/main/pic/3.png)
 
@@ -18,7 +18,7 @@ extract images from a PDF
 
 ## run code 앱실행  
 
-```python pdfpng_02.py```
+```python pdfpng_04.py```
 
 
  <br/>
