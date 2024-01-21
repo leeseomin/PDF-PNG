@@ -10,6 +10,7 @@
 
 
 ```pip install --upgrade pymupdf ```
+```pip install pdfminer.six ```
 
 
 
