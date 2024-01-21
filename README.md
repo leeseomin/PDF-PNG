@@ -35,6 +35,7 @@
 
 PyMuPDF : https://github.com/pymupdf/PyMuPDF 
 
+pdfminer : https://github.com/pdfminer/pdfminer.six
 
  <br/>
  
