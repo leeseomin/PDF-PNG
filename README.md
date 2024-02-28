@@ -44,8 +44,9 @@ Streamlit : https://github.com/streamlit/streamlit
 
 ## Special Handling for Large-sized PDFs
 
-"If the PDF file size exceeds 200MB or if the PDF is primarily composed of images,
-please execute the  ``` python pdfpng_06.py ``` script to handle it."
+"If the PDF file size exceeds 200MB or if the PDF is primarily composed of images,please execute the 
+
+``` python pdfpng_06.py ``` script to handle it."
 
  <br/>
  
