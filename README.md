@@ -42,6 +42,11 @@ Streamlit : https://github.com/streamlit/streamlit
  <br/>
 
 
+## Special Handling for Large or Image-Heavy PDFs
+
+If the PDF size exceeds 200MB or the PDF is image-centered, run ``` python pdfpng_06.py ```
+
+
 ## License and Copyright
 
 This is available under open-source AGPL  :https://www.gnu.org/licenses/agpl-3.0.html 
