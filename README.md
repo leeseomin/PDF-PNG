@@ -46,6 +46,9 @@ Streamlit : https://github.com/streamlit/streamlit
 
 If the PDF size exceeds 200MB or the PDF is image-centered, run ``` python pdfpng_06.py ```
 
+ <br/>
+ 
+ <br/>
 
 ## License and Copyright
 
