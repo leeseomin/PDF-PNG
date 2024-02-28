@@ -2,7 +2,7 @@
 
 ### extract images and text from a PDF
 
-![Image](https://github.com/leeseomin/PDF_PNG/blob/main/pic/3.png)
+![Image](https://github.com/leeseomin/PDF_PNG/blob/main/pic/07.png)
 
 
 
