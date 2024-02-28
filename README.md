@@ -6,12 +6,10 @@
 
 
 
-## Dependency (Tested on an M2 Mac) 
+## Dependency (Tested on an M2 Mac, windows 11) 
 
 
-```pip install --upgrade pymupdf ```
-```pip install pdfminer.six ```
-
+```pip install streamlit PyMuPDF pdfminer.six```
 
 
 <br>
@@ -20,7 +18,7 @@
 
 ## run code 앱실행  
 
-```python pdfpng_06.py```
+```streamlit run pdfpng_07.py```
 
 
  <br/>
