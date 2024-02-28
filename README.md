@@ -1,4 +1,4 @@
-# PDF-PNG
+# PDF-PNG web UI
 
 ### extract images and text from a PDF
 
